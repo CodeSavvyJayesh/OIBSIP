@@ -13,7 +13,7 @@ A Java-based command-line simulation of an ATM system. It supports basic banking
 ✨ Enhanced with database integration using JDBC and MySQL for real-world functionality.
 
 #### 🛠 Technologies Used
-- Java  
+- Java swing
 - JDBC (Java Database Connectivity)  
 - MySQL  
 - IntelliJ IDEA
@@ -24,7 +24,7 @@ A Java-based command-line simulation of an ATM system. It supports basic banking
 A fun and interactive number guessing game that challenges the user to guess a randomly generated number with helpful feedback.
 
 #### 🛠 Technologies Used
-- Java  
+- Java swing
 - IntelliJ IDEA
 
 ---
